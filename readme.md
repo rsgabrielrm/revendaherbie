@@ -1,6 +1,6 @@
-#Trabalho Final - Programação para Internet 2 - FATEC  PELOTAS
+<h1>Trabalho Final - Programação para Internet 2 - FATEC  PELOTAS</h1>
 
-##Trabalho 3 parte **1**: Laravel / WebServices
+<h2>Trabalho 3 parte 1: Laravel / WebServices</h2>
 
 **Página do Cliente**
 
@@ -21,7 +21,7 @@ telefone e proposta do cliente.
 modelo do veículo). Incluir link (botão) para Responder Proposta (enviar a resposta para o e-mail do cliente).
 4. Gerar gráfico relacionando dados das propostas recebidas (nº de propostas/mês...)
 
-##Trabalho 3 parte **2**: Laravel / WebServices
+<h2>Trabalho 3 parte 2: Laravel / WebServices</h2>
 
 **Adicionar ao projeto os seguintes recursos:**
 
